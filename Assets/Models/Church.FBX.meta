@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: f0d319c1758a7954a9c79fd44d7da0be
+timeCreated: 1483930034
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bench001
+    100004: Bench002
+    100006: Bench003
+    100008: Bench004
+    100010: Bench005
+    100012: Bench006
+    100014: Bench007
+    100016: Bench008
+    100018: Bench009
+    100020: Bench010
+    100022: Bench011
+    100024: Bench012
+    100026: Bench013
+    100028: Bench014
+    100030: Bench015
+    100032: Bench016
+    100034: Bench017
+    100036: Bench018
+    100038: Bench019
+    100040: Crucifixion
+    100042: Lectern
+    400000: //RootNode
+    400002: Bench001
+    400004: Bench002
+    400006: Bench003
+    400008: Bench004
+    400010: Bench005
+    400012: Bench006
+    400014: Bench007
+    400016: Bench008
+    400018: Bench009
+    400020: Bench010
+    400022: Bench011
+    400024: Bench012
+    400026: Bench013
+    400028: Bench014
+    400030: Bench015
+    400032: Bench016
+    400034: Bench017
+    400036: Bench018
+    400038: Bench019
+    400040: Crucifixion
+    400042: Lectern
+    2300000: //RootNode
+    2300002: Bench001
+    2300004: Bench002
+    2300006: Bench003
+    2300008: Bench004
+    2300010: Bench005
+    2300012: Bench006
+    2300014: Bench007
+    2300016: Bench008
+    2300018: Bench009
+    2300020: Bench010
+    2300022: Bench011
+    2300024: Bench012
+    2300026: Bench013
+    2300028: Bench014
+    2300030: Bench015
+    2300032: Bench016
+    2300034: Bench017
+    2300036: Bench018
+    2300038: Bench019
+    2300040: Crucifixion
+    2300042: Lectern
+    3300000: //RootNode
+    3300002: Bench001
+    3300004: Bench002
+    3300006: Bench003
+    3300008: Bench004
+    3300010: Bench005
+    3300012: Bench006
+    3300014: Bench007
+    3300016: Bench008
+    3300018: Bench009
+    3300020: Bench010
+    3300022: Bench011
+    3300024: Bench012
+    3300026: Bench013
+    3300028: Bench014
+    3300030: Bench015
+    3300032: Bench016
+    3300034: Bench017
+    3300036: Bench018
+    3300038: Bench019
+    3300040: Crucifixion
+    3300042: Lectern
+    4300000: Church
+    4300002: Crucifixion
+    4300004: Lectern
+    4300006: Bench001
+    4300008: Bench002
+    4300010: Bench003
+    4300012: Bench004
+    4300014: Bench005
+    4300016: Bench006
+    4300018: Bench007
+    4300020: Bench008
+    4300022: Bench009
+    4300024: Bench010
+    4300026: Bench011
+    4300028: Bench012
+    4300030: Bench013
+    4300032: Bench014
+    4300034: Bench015
+    4300036: Bench016
+    4300038: Bench017
+    4300040: Bench018
+    4300042: Bench019
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
