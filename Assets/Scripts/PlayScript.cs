@@ -22,6 +22,7 @@ public class PlayScript : MonoBehaviour {
     void OnTriggerEnter(Collider other) {
         if (!m_played) {
             m_source.PlayOneShot(m_clip);
+            m_played = true;
         }
     }
 }
