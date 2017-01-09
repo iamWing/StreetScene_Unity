@@ -21,7 +21,7 @@ public class Door : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
-        if (Input.GetKeyDown("E") && m_trigger) {
+        if (Input.GetKeyDown("e") && m_trigger) {
             m_isOpened = !m_isOpened;
         }
 
