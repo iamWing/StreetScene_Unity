@@ -4,7 +4,7 @@ using System.Collections;
 public class PlayScript : MonoBehaviour {
 
     private AudioSource m_source;
-    private bool m_played = false;
+    internal bool played = false;
 
     [SerializeField]
     private AudioClip m_clip;
@@ -20,9 +20,10 @@ public class PlayScript : MonoBehaviour {
 	}
 
     void OnTriggerEnter(Collider other) {
-        if (!m_played) {
+        if (!played) {
             m_source.PlayOneShot(m_clip);
-            m_played = true;
+            played = true;
         }
     }
 }
+
