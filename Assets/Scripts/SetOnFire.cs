@@ -43,5 +43,11 @@ public class SetOnFire : MonoBehaviour {
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
         m_controller.enabled = false;
+
+        Invoke("Exit", 10);
+    }
+
+    void Exit() {
+        Application.Quit();
     }
 }
